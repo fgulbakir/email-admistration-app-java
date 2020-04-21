@@ -1,6 +1,6 @@
 package Interface;
 
-public interface IDepartment {
-
+public interface IDepartment 
+{
 	String departmentType();
 }
